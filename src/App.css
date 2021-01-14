@@ -1,0 +1,26 @@
+
+.app {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #f5f6fa;
+  padding: 20px;
+}
+
+.app__header{
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-evenly;
+}
+
+.app__center{
+  padding:40px;
+}
+
+
+.app__bottom{
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-evenly;
+}
